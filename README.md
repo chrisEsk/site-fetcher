@@ -1,4 +1,3 @@
-
 1. `npm install`
 (Tested using Node.js 20.x)
 
